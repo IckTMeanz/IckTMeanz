@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Nghia.DT225753@sis.hust.edu.vn**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
