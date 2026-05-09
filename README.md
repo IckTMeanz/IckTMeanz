@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dương Tuấn Nghĩa</h1>
-<h3 align="center">I am a junior in Ha Noi university of Science and Technology</h3>
+<h3 align="center">I am a final-year student in Ha Noi university of Science and Technology</h3>
 
-- 🌱 I’m currently learning **Mobile app development and ML**
+- 🌱 I’m currently learning **Deep learning and computer vision**
 
 - 💬 Ask me about **Java**
 
